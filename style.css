@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(216, 238, 15, 0.794);
+}
+
+#title{
+    text-align: center;
+    border-bottom: 1px solid;
+}
+.container{
+    border: 3px solid rgba(0, 0, 0, 0.87);
+    ;
+    padding: 10px;
+    width: 500px
+}
+
+
+
+.controls-item {
+    display: inline-block;
+}
+
+.btn {
+    margin: 3px;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+}
+
+
